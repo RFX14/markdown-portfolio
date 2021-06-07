@@ -1,5 +1,5 @@
 List of my favorite things
 
-* Singing :microphone:
-* Running :runner:
-* Anime/Manga :book:
+* _**Singing**_ :microphone:
+* _Running_ :runner:
+* _Anime/Manga_ :book:
